@@ -1,9 +1,9 @@
 //1
 /*
 var someMonth;
-function (theMonth);
-var currentMonth;
-function (myLibrary);
+function theMonth;
+currentMonth;
+mylibrary function();
 */
 
 //2
@@ -17,11 +17,9 @@ d = false;
 
 //3
 /*
-var x = new Date();
-alert(x.toString());
+var strName = prompt("What is your name?);
 
-var userNumber = prompt("choose a number with a decimal");
-alert(Math.round(userNumber));
+var numAdd = 2 + 2;
 */
 
 //4
@@ -165,11 +163,10 @@ window.console.log(x *= 5);
 
 //20
 /*
-var x = 20;
-x /= 3;
+var x = (20%3)/1;
 window.console.log(x);
-*/
 
+*/
 //21
 /*
 var x = 10;
@@ -193,12 +190,12 @@ window.console.log(typeof widget);
 //24
 /*
 var widget = new Object();
-window.console.log("PI" in Math);
+window.console.log(widget instanceof Object);
 */
 //25
-/*
+
 var widget = new Object();
-window.console.log("widget" in Object);
-*/
+window.console.log("widget" instanceof Object);
+
 
 
