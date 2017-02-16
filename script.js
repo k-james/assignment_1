@@ -193,9 +193,9 @@ var widget = new Object();
 window.console.log(widget instanceof Object);
 */
 //25
-
+/*
 var widget = new Object();
 window.console.log("widget" instanceof Object);
-
+*/
 
 
