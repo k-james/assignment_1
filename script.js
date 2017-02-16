@@ -8,11 +8,11 @@ mylibrary function();
 
 //2
 /*
-var a, b, c, d;
-a = 4;
-b = "katelin";
-c = null;
-d = false;
+
+4;
+"katelin";
+null;
+false;
 */
 
 //3
