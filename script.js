@@ -3,7 +3,7 @@
 var someMonth;
 function theMonth;
 currentMonth;
-mylibrary function();
+myLibrary function();
 */
 
 //2
